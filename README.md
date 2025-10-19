@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&width=435&lines=Hey+Im+Vamsi+Krish)](https://git.io/typing-svg)
 # Vamsi Krishna Chiguruwada | Frontend Engineer
 
 ## 🚀 Creative Frontend Engineer with 5 years of experience building intuitive, high-performance user interfaces.
@@ -14,7 +15,7 @@ I bridge the gap between complex business requirements and clean, accessible, an
 
 ### 📬 Get in Touch
 
-- ✉️ **Email:** [vamsichiguruwada@gmail.com](mailto:vamsi@vamsikrish.com)
+- ✉️ **Email:** [vamsi@vamsikrish.com](mailto:vamsi@vamsikrish.com)
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/vamsi-krish-c/](https://www.linkedin.com/in/vamsi-krish-c/)
 - 🌐 **Portfolio:** [vamsikrish.com](https://vamsikrish.com)
 
