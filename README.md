@@ -1,11 +1,11 @@
-# Vamsi Krishna Chiguruwada | Frontend Engineer & Business Analytics Professional
+# Vamsi Krishna Chiguruwada | Frontend Engineer
 
 ## 🚀 Creative Frontend Engineer with 5 years of experience building intuitive, high-performance user interfaces.
 
 I bridge the gap between complex business requirements and clean, accessible, and scalable front-end solutions. My approach is rooted in the powerful combination of deep technical expertise in the **React ecosystem** and a strategic mindset sharpened by a **Master's degree in Business Analytics**. I don't just build UIs; I engineer user experiences that are data-informed and drive business results.
 
 - 🇺🇸 Based in the **USA** & authorized to work without sponsorship. Open to roles across the country.
-- 🎓 **Master of Science in Business Analytics (STEM)** from Hult International Business School (Expected July 2025).
+- 🎓 **Master of Science in Business Analytics (STEM)** from Hult International Business School.
 - 💻 Specializing in the modern frontend stack: **React.js, Next.js, TypeScript, and Redux**.
 - 📊 Passionate about **Data Visualization, UI/UX Design, and Performance Optimization**.
 - 🤝 Eager to collaborate on innovative projects and contribute to a forward-thinking team.
@@ -14,8 +14,8 @@ I bridge the gap between complex business requirements and clean, accessible, an
 
 ### 📬 Get in Touch
 
-- ✉️ **Email:** [vamsichiguruwada@gmail.com](mailto:vamsichiguruwada@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/vamsi-krish-chiguruwada-532092183](https://www.linkedin.com/in/vamsi-krish-chiguruwada-532092183)
+- ✉️ **Email:** [vamsichiguruwada@gmail.com](mailto:vamsi@vamsikrish.com)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/vamsi-krish-c/](https://www.linkedin.com/in/vamsi-krish-c/)
 - 🌐 **Portfolio:** [vamsikrish.com](https://vamsikrish.com)
 
 ---
