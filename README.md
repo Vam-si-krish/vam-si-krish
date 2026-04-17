@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=vamsi-krish-chiguruwada&label=Profile%20Views&color=818CF8&style=flat-square)](https://github.com/vamsi-krish-chiguruwada)
+[![Profile Views](https://komarev.com/ghpvc/?username=vam-si-krish&label=Profile%20Views&color=818CF8&style=flat-square)](https://github.com/vam-si-krish)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamsi-krish-c/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-vamsikrish.com-818CF8?style=flat-square&logo=vercel&logoColor=white)](https://vamsikrish.com)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vchiguruwada@gmail.com)
