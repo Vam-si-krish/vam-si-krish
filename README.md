@@ -6,6 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=58&lines=Senior+Frontend+Engineer+%F0%9F%9A%80;Building+Enterprise-Scale+Products+%F0%9F%8F%A6;React+%7C+TypeScript+%7C+Next.js+Expert+%E2%9A%A1;MS+Business+Analytics+%40+Hult+%F0%9F%8E%93;5%2B+Years+of+Crafting+Pixel-Perfect+UIs" alt="Typing SVG" />
 </a>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-vamsikrish.com-818CF8?style=flat-square&logo=vercel&logoColor=white)](https://vamsikrish.com)
+
+
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vam-si-krish&label=Profile%20Views&color=818CF8&style=flat-square)](https://github.com/vam-si-krish)
